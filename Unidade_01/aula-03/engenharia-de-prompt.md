@@ -1,7 +1,7 @@
 # Atividade - Refinamento de Prompts
 
 ## Identificação
-- **Nome:** [Seu Nome]
+- **Nome:** Gustavo Negreiros
 - **Turma:** Ciência da Computação
 - **Data:** 03/09/2026
 - **Ferramenta de IA utilizada:** Gemini (Google)
