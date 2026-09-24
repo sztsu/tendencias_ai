@@ -88,11 +88,4 @@ jupyter notebook
 
 ## Licença
 
-Este repositório está disponível sob licença MIT (adicionar arquivo LICENSE para formalizar).
-
----
-
-Se quiser, eu posso:
-- Ajustar o README com trechos textuais diretos do PDF do plano de aulas (extraindo objetivos e cronograma),
-- Gerar um arquivo LICENSE (MIT) e template de contribuição (CONTRIBUTING.md),
-- Adicionar um sumário por Unidade baseado no conteúdo atual do repositório.
+Este repositório está disponível sob licença MIT 
